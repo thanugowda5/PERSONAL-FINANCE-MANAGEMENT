@@ -42,3 +42,9 @@ A web application developed using HTML, CSS and JavaScript to manage personal in
 
 \- Chart.js
 
+\## Future Enhancement
+
+
+
+\- Dark Mode feature will be added in future updates.
+
