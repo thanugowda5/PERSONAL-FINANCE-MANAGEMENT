@@ -101,7 +101,7 @@ table th{
 
 table th,
 table td{
-    padding:12px;
+    padding:16px;
     text-align:center;
     border-bottom:1px solid #ddd;
 }
@@ -115,7 +115,7 @@ tr:hover{
     padding:6px 12px;
     border:none;
     color:white;
-    border-radius:5px;
+    border-radius:10px;
     cursor:pointer;
 }
 
@@ -127,7 +127,7 @@ tr:hover{
     background:white;
     margin-top:25px;
     padding:20px;
-    border-radius:12px;
+    border-radius:14px;
     box-shadow:0 3px 10px rgba(0,0,0,.15);
 }
 
