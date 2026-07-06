@@ -7,7 +7,7 @@
 
 body{
     background:#f4f7fa;
-    padding:20px;
+  padding:24px;
 }
 
 .container{
@@ -158,6 +158,6 @@ tr:hover{
     input,
     select,
     button{
-        font-size:14px;
+      font-size:18px;
     }
 }
