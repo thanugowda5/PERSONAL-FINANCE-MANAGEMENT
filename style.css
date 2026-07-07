@@ -90,9 +90,8 @@ table{
     width:100%;
     border-collapse:collapse;
     background:white;
-    box-shadow:0 3px 10px rgba(0,0,0,.15);
-    margin-top:20px;
-}
+    box-shadow:0 5px 10px rgba(0,0,0,.15);
+    margin-top:20px:
 
 table th{
     background:#3498db;
