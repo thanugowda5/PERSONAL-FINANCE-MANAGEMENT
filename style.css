@@ -90,9 +90,14 @@ table{
     width:100%;
     border-collapse:collapse;
     background:white;
+feature-css
     box-shadow:0 3px 10px rgba(0,0,0,.15);
     margin-top:18px;
 }
+
+    box-shadow:0 5px 10px rgba(0,0,0,.15);
+    margin-top:20px:
+ main
 
 table th{
     background:#3498db;
@@ -125,21 +130,21 @@ tr:hover{
 
 .chartBox{
     background:white;
-    margin-top:22px;
+    margin-top:25px;
     padding:20px;
     border-radius:14px;
     box-shadow:0 3px 10px rgba(0,0,0,.15);
 }
 
 .alert{
-    margin-top:18px;
-    font-size:18px;
+    margin-top:19px;
+    font-size:20px;
     font-weight:bold;
     text-align:center;
     color:red;
 }
 
-/* Responsive Design */
+
 @media(max-width:768px){
 
     .dashboard{
